@@ -1,1 +1,2 @@
 Welcome to Git session
+welcome to second line
